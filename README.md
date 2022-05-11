@@ -1,2 +1,2 @@
 # ADS-Analise-e-Desenvolvimento-de-Sistemas
-Repositório Teste para Junção de Projetos da Faculdade Impacta!
+Repositório para Junção de Projetos da Faculdade Impacta!
